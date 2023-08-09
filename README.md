@@ -14,7 +14,7 @@ conda activate mb
 
 To simplify the installation, I've included a script that logs in using `matrix-nio[e2e]` to create the device ID, access token, etc. 
 
-Run the following (with conda env activated):
+Run the following (with the conda env activated):
 
 ```
 python initialize.py
