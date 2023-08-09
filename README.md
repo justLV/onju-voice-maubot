@@ -1,5 +1,5 @@
 # 🤖 Maubot plugin for Onju Voice 🍐🔊
-This is a maubot plugin for exposing new messages from Beeper on a local server, to be used with the demo code [here](https://github.com/justLV/onju-voice).
+This is a maubot plugin for exposing new messages from Beeper on a local server, to be used with the code [here](https://github.com/justLV/onju-voice), as demo'd [here](https://twitter.com/justLV)
 
 I've included everything that one should need to get a standalone Maubot plugin running with E2E encyption in this repo, assuming one has Beeper access, hopefully saving some of the typical pains.
 
